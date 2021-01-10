@@ -26,16 +26,7 @@ The technologies used include:
 The following solution was implemented:
 
 1.	Designed a menu from which the user could select the type of car data they wanted to see. 
-2.	Specifically using object-oriented programming, created a dashboard consisting of:
-a.	Speedometer, 
-b.	Tachometer (for RPM),
-c.	Fuel Gauge, 
-d.	Fuel Economy, 
-e.	Odometer, 
-f.	Range, 
-g.	Fuel Consumption,
-h.	Direction, 
-i.	Visual charts to depict average fuel economy and fuel consumption. 
+2.	Specifically using object-oriented programming, created a dashboard consisting of a speedometer, tachometer (for RPM), fuel gauge, fuel economy, odometer, range, fuel consumption, direction, and visual charts to depict average fuel economy and fuel consumption. 
 
 ## Launch
 
