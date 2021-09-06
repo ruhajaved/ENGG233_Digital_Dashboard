@@ -25,12 +25,15 @@ The technologies used include:
 
 The following solution was implemented:
 
-1.	Designed a menu from which the user could select the type of car data they wanted to see. The car data used is stored in .csv files and must be provided by the user (example car data provdided with code).
-2.	Specifically using object-oriented programming, created a dashboard consisting of a speedometer, tachometer (for RPM), fuel gauge, fuel economy, odometer, range, fuel consumption, direction, and visual charts to depict average fuel economy and fuel consumption. 
+1.	Designed a menu from which the user could select the type of car data they wanted to simulate. The car data used is stored in .csv files and must be provided by the user (example car data provdided with code). The starting menu looks like the below.
+<img width="851" alt="Screen Shot 2021-09-05 at 10 19 26 PM" src="https://user-images.githubusercontent.com/72583753/132160082-a77d67af-cc97-4c37-a4c1-e46ef9c57689.png">
+2.	Specifically using object-oriented programming, created a dashboard consisting of a speedometer, tachometer (for RPM), fuel gauge, fuel economy, odometer, range, fuel consumption, direction, and visual charts to depict average fuel economy and fuel consumption. The dashboard will look like the below. <img width="853" alt="Screen Shot 2021-09-05 at 10 22 23 PM" src="https://user-images.githubusercontent.com/72583753/132160283-abe3d0de-495f-41d9-99ef-b796bd855ef1.png">
 
 ## Launch
 
 In order to launch this project, simply download the folder DigitalDashboard. Once you have the neccessary technologies downloaded (remember the library needed), open the file named DigitalDashboard.pde and click "Run" in the top left.
+
+The starting menu will pop up. If a car simulation is selected, the car dashboard with pop up and start simulating the car data provideed, as shown below.
 
 ## Possible Improvements
 
