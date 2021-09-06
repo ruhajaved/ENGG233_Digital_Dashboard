@@ -25,7 +25,7 @@ The technologies used include:
 
 The following solution was implemented:
 
-1.	Designed a menu from which the user could select the type of car data they wanted to see. 
+1.	Designed a menu from which the user could select the type of car data they wanted to see. The car data used is stored in .csv files and must be provided by the user (example car data provdided with code).
 2.	Specifically using object-oriented programming, created a dashboard consisting of a speedometer, tachometer (for RPM), fuel gauge, fuel economy, odometer, range, fuel consumption, direction, and visual charts to depict average fuel economy and fuel consumption. 
 
 ## Launch
