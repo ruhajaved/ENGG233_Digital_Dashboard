@@ -19,7 +19,7 @@ The project objectives included:
 The technologies used include:
 
 1. Processing 3.5.3
-2. Library gicentreUtils 3.4.0 by Jo Wood and Aidan Slingsby
+2. Library gicentreUtils 3.4.0 by Jo Wood and Aidan Slingsby (org.gicentre.utils.stat. library in Processing).
 
 ## Solution
 
